@@ -699,4 +699,3 @@ private Boolean secondsPast(timestamp, seconds) {
 private setQueryBattery() {
 	state.queryBattery = true
 }
-
